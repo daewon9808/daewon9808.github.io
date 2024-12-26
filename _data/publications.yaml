@@ -21,22 +21,22 @@ papers:
     selected: y
 
   - title: "Clustering-based Image-Text Graph Matching for Domain Generalization"
-    authors: "<a href='https://choidae1.github.io/'>Daewon Choi<sup>*</sup></a>, <a href='https://jh-jeong.github.io/'>Jongheon Jeong<sup>*</sup></a>, <b><u>Huiwon Jang</u></b>, <a href='https://alinlab.kaist.ac.kr/shin.html'>Jinwoo Shin</a>"
-    venue: "European Conference on Computer Vision (ECCV), 2024, <b><span style='color:red;'>Oral Presentation</span></b>"
+    authors: "<a href='https://sites.google.com/view/nokyung-park'>Nokyung Park</a>, <b><u>Daewon Chae</u></b>, <a href='https://openreview.net/profile?id=~Jeongyong_Shim2'>Jeongyong Shim</a>, <a href='https://kuaicv.com/professor/'>Sangpil Kim</a>, <a href='https://kimeunsol.github.io/'>Eun-Sol Kim</a>, <a href='https://visionai.korea.ac.kr/'>Jinkyu Kim</a>"
+    venue: "International Conference on Pattern Recognition (ICPR), 2024"
     arxiv: "https://arxiv.org/abs/2407.18658"
     code: "https://github.com/ChoiDae1/robustify-T2I"
     selected: y
 
   - title: "Text-driven Prototype Learning for Few-Shot Class-Incremental Learning"
     authors: "<a href='https://choidae1.github.io/'>Daewon Choi<sup>*</sup></a>, <a href='https://jh-jeong.github.io/'>Jongheon Jeong<sup>*</sup></a>, <b><u>Huiwon Jang</u></b>, <a href='https://alinlab.kaist.ac.kr/shin.html'>Jinwoo Shin</a>"
-    venue: "European Conference on Computer Vision (ECCV), 2024, <b><span style='color:red;'>Oral Presentation</span></b>"
+    venue: "International Conference on Pattern Recognition (ICPR), 2024"
     arxiv: "https://arxiv.org/abs/2407.18658"
     code: "https://github.com/ChoiDae1/robustify-T2I"
     selected: y
 
   - title: "Re-ID Technology for V2I based Cooperative Driving Protocol"
     authors: "<b><u>Huiwon Jang</u></b>, Dongyoung Kim, <a href='https://junsu-kim97.github.io/'>Junsu Kim</a>, <a href='https://alinlab.kaist.ac.kr/shin.html'>Jinwoo Shin</a>, <a href='https://people.eecs.berkeley.edu/~pabbeel/'>Pieter Abbeel</a>, <a href='https://younggyo.me/'>Younggyo Seo</a>"
-    venue: "International Conference on Machine Learning (ICML), 2024"
+    venue: "International Conference on Ubiquitous and Future Networks (ICUFN), 2023"
     paper_pdf: "https://openreview.net/forum?id=rI6lxIX0uX"
     website: "https://sites.google.com/view/2024rsp"
     arxiv: "https://arxiv.org/abs/2406.07398"
