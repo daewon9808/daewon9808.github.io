@@ -8,7 +8,7 @@ papers:
     selected: y
 
   - title: "DiffExp: Efficient Exploration in Reward Fine-tuning for Text-to-Image Diffusion Models"
-    authors: "<b><u>Daewon Chae</u><sup>*</sup></b>, <a href='https://openreview.net/profile?id=~June_Suk_Choi1'>June Suk Choi<sup>*</sup></a>, <a href='https://visionai.korea.ac.kr/'>Jinkyu Kim</a>, <a href='https://sites.google.com/view/kiminlee'>Kimin Lee</a>"
+    authors: "<b><u>Daewon Chae</u><sup>*</sup></b>, June Suk Choi<sup>*</sup>, Jinkyu Kim, Kimin Lee"
     venue: "AAAI Conference on Artificial Intelligence (AAAI), 2025"
     paper_pdf: "https://drive.google.com/drive/folders/16hqIrYSk35mCZjrLXYLvYNh1hT_IK5I0"
     selected: y
