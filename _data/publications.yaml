@@ -14,7 +14,7 @@ papers:
     selected: y
 
   - title: "InstructBooth: Instruction-following Personalized Text-to-Image Generation"
-    authors: "<b><u>Daewon Chae</u></b>, <a href='https://sites.google.com/view/nokyung-park'>Nokyung Park</a>, <a href='https://visionai.korea.ac.kr/'>Jinkyu Kim</a>, <a href='https://sites.google.com/view/kiminlee'>Kimin Lee</a>"
+    authors: "<b><u>Daewon Chae</u></b>, Nokyung Park, Jinkyu Kim, Kimin Lee"
     venue: "ICML Workshop on Foundation Models in the Wild (ICMLW), 2024"
     paper_pdf: "https://arxiv.org/abs/2312.03011"
     website: "https://sites.google.com/view/instructbooth"
