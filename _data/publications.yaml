@@ -1,6 +1,6 @@
 papers:
   - title: "ENTP: Encoder-only Next Token Prediction"
-    authors: "Ethan Ewer*, <b><u>Daewon Chae</u>*</b>, Thomas Zeng<sup>*</sup>, Jinkyu Kim, Kangwook Lee"
+    authors: "Ethan Ewer*, <b><u>Daewon Chae</u>*</b>, Thomas Zeng*, Jinkyu Kim, Kangwook Lee"
     venue: "Preprint"
     paper_pdf: "https://arxiv.org/abs/2410.01600"
     summary: "https://x.com/Kangwook_Lee/status/1842020800620040549"
@@ -8,7 +8,7 @@ papers:
     selected: y
 
   - title: "DiffExp: Efficient Exploration in Reward Fine-tuning for Text-to-Image Diffusion Models"
-    authors: "<b><u>Daewon Chae</u><sup>*</sup></b>, June Suk Choi<sup>*</sup>, Jinkyu Kim, Kimin Lee"
+    authors: "<b><u>Daewon Chae</u>*</b>, June Suk Choi*, Jinkyu Kim, Kimin Lee"
     venue: "AAAI Conference on Artificial Intelligence (AAAI), 2025"
     paper_pdf: "https://drive.google.com/drive/folders/16hqIrYSk35mCZjrLXYLvYNh1hT_IK5I0"
     selected: y
@@ -28,7 +28,7 @@ papers:
     selected: y
 
   - title: "Text-driven Prototype Learning for Few-Shot Class-Incremental Learning"
-    authors: "Seongbeom Park<sup>*</sup>, Haeji Jung<sup>*</sup>, <b><u>Daewon Chae</u></b>, Hyunju Yun, Sungyoon Kim, Suhong Moon, Seunghyun Park, Jinkyu Kim"
+    authors: "Seongbeom Park*, Haeji Jung*, <b><u>Daewon Chae</u></b>, Hyunju Yun, Sungyoon Kim, Suhong Moon, Seunghyun Park, Jinkyu Kim"
     venue: "International Conference on Pattern Recognition (ICPR), 2024"
     paper_pdf: "https://drive.google.com/file/d/1NNXT0frupwHv5pipHt9xoEjdl5XFDlyW/view"
     selected: y
