@@ -21,7 +21,7 @@ papers:
     selected: y
 
   - title: "Clustering-based Image-Text Graph Matching for Domain Generalization"
-    authors: "<a href='https://sites.google.com/view/nokyung-park'>Nokyung Park</a>, <b><u>Daewon Chae</u></b>, <a href='https://openreview.net/profile?id=~Jeongyong_Shim2'>Jeongyong Shim</a>, <a href='https://kuaicv.com/professor/'>Sangpil Kim</a>, <a href='https://kimeunsol.github.io/'>Eun-Sol Kim</a>, <a href='https://visionai.korea.ac.kr/'>Jinkyu Kim</a>"
+    authors: "Nokyung Park, <b><u>Daewon Chae</u></b>, Jeongyong Shim, Sangpil Kim, Eun-Sol Kim, Jinkyu Kim"
     venue: "International Conference on Pattern Recognition (ICPR), 2024"
     arxiv: "https://arxiv.org/abs/2407.18658"
     code: "https://github.com/ChoiDae1/robustify-T2I"
