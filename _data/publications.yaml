@@ -1,9 +1,10 @@
 papers:
   - title: "ENTP: Encoder-only Next Token Prediction"
-    authors: "<a href='https://sites.google.com/wisc.edu/ethan-ewer/about'>Ethan Ewer<sup>*</sup></a>, <b><u>Daewon Chae</u><sup>*</sup></b>, <a href='https://alinlab.kaist.ac.kr/shin.html'>Jinwoo Shin</a>, <a href='https://people.eecs.berkeley.edu/~pabbeel/'>Pieter Abbeel</a>, <a href='https://younggyo.me/'>Younggyo Seo</a>"
+    authors: "<a href='https://sites.google.com/wisc.edu/ethan-ewer/about'>Ethan Ewer<sup>*</sup></a>, <b><u>Daewon Chae</u><sup>*</sup></b>, Thomas Zeng<sup>*</sup>, <a href='https://visionai.korea.ac.kr/'>Jinkyu Kim</a>, <a href='https://kangwooklee.com/aboutme/'>Kangwook Lee</a>"
     venue: "Preprint"
+    paper_pdf: "https://arxiv.org/abs/2410.01600"
+    summary: "https://x.com/Kangwook_Lee/status/1842020800620040549"
     website: "https://huiwon-jang.github.io/coordtok/"
-    arxiv: https://arxiv.org/abs/2411.14762
     code: "https://github.com/huiwon-jang/CoordTok"
     selected: y
 
