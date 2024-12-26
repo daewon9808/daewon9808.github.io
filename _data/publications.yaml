@@ -28,7 +28,7 @@ papers:
     selected: y
 
   - title: "Text-driven Prototype Learning for Few-Shot Class-Incremental Learning"
-    authors: "<a href='https://openreview.net/profile?id=~Seongbeom_Park1'>Seongbeom Par<sup>*</sup>k</a> <a href='https://letme-hj.github.io/'>Haeji Jung<sup>*</sup></a>, <b><u>Daewon Chae</u></b>, <a href='https://visionai.korea.ac.kr/'>Hyunju Yun</a>, <a href='https://visionai.korea.ac.kr/'>Sungyoon Kim</a>, <a href='https://visionai.korea.ac.kr/'>Suhong Moon</a>,  <a href='https://visionai.korea.ac.kr/'>Seunghyun Park</a>,  <a href='https://visionai.korea.ac.kr/'>Jinkyu Kim</a>"
+    authors: "<a href='https://openreview.net/profile?id=~Seongbeom_Park1'>Seongbeom Park<sup>*</sup></a>, <a href='https://letme-hj.github.io/'>Haeji Jung<sup>*</sup></a>, <b><u>Daewon Chae</u></b>, <a href='https://visionai.korea.ac.kr/'>Hyunju Yun</a>, <a href='https://visionai.korea.ac.kr/'>Sungyoon Kim</a>, <a href='https://visionai.korea.ac.kr/'>Suhong Moon</a>,  <a href='https://visionai.korea.ac.kr/'>Seunghyun Park</a>,  <a href='https://visionai.korea.ac.kr/'>Jinkyu Kim</a>"
     venue: "International Conference on Pattern Recognition (ICPR), 2024"
     arxiv: "https://arxiv.org/abs/2407.18658"
     code: "https://github.com/ChoiDae1/robustify-T2I"
