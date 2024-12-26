@@ -1,6 +1,6 @@
 papers:
   - title: "ENTP: Encoder-only Next Token Prediction"
-    authors: "Ethan Ewer<sup>*</sup>, <b><u>Daewon Chae</u><sup>*</sup></b>, Thomas Zeng<sup>*</sup>, Jinkyu Kim, Kangwook Lee"
+    authors: "Ethan Ewer*, <b><u>Daewon Chae</u>*</b>, Thomas Zeng<sup>*</sup>, Jinkyu Kim, Kangwook Lee"
     venue: "Preprint"
     paper_pdf: "https://arxiv.org/abs/2410.01600"
     summary: "https://x.com/Kangwook_Lee/status/1842020800620040549"
