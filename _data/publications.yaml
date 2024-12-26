@@ -28,18 +28,14 @@ papers:
     selected: y
 
   - title: "Text-driven Prototype Learning for Few-Shot Class-Incremental Learning"
-    authors: "<a href='https://openreview.net/profile?id=~Seongbeom_Park1'>Seongbeom Park<sup>*</sup></a>, <a href='https://letme-hj.github.io/'>Haeji Jung<sup>*</sup></a>, <b><u>Daewon Chae</u></b>, <a href='https://visionai.korea.ac.kr/'>Hyunju Yun</a>, <a href='https://visionai.korea.ac.kr/'>Sungyoon Kim</a>, <a href='https://visionai.korea.ac.kr/'>Suhong Moon</a>,  <a href='https://visionai.korea.ac.kr/'>Seunghyun Park</a>,  <a href='https://visionai.korea.ac.kr/'>Jinkyu Kim</a>"
+    authors: "Seongbeom Park<sup>*</sup>, Haeji Jung<sup>*</sup>, <b><u>Daewon Chae</u></b>, Hyunju Yun, Sungyoon Kim, Suhong Moon, Seunghyun Park, Jinkyu Kim"
     venue: "International Conference on Pattern Recognition (ICPR), 2024"
     arxiv: "https://arxiv.org/abs/2407.18658"
     code: "https://github.com/ChoiDae1/robustify-T2I"
     selected: y
 
   - title: "Re-ID Technology for V2I based Cooperative Driving Protocol"
-    authors: "<b><u>Huiwon Jang</u></b>, Dongyoung Kim, <a href='https://junsu-kim97.github.io/'>Junsu Kim</a>, <a href='https://alinlab.kaist.ac.kr/shin.html'>Jinwoo Shin</a>, <a href='https://people.eecs.berkeley.edu/~pabbeel/'>Pieter Abbeel</a>, <a href='https://younggyo.me/'>Younggyo Seo</a>"
+    authors: "Junhyek Jang, Kitaeg Lim, Sanghun Yoon, <b><u>Daewon Chae</u></b>, Soohyun Jang"
     venue: "International Conference on Ubiquitous and Future Networks (ICUFN), 2023"
-    paper_pdf: "https://openreview.net/forum?id=rI6lxIX0uX"
-    website: "https://sites.google.com/view/2024rsp"
-    arxiv: "https://arxiv.org/abs/2406.07398"
-    code: "https://github.com/huiwon-jang/RSP"
-    poster: "/assets/publications/2024_RSP/RSP_poster.pdf"
+    paper_pdf: "https://ieeexplore.ieee.org/abstract/document/10200144"
     selected: y
